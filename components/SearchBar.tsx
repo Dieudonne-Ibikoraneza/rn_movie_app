@@ -25,7 +25,6 @@ const SearchBar = ({ placeholder, onPress }: Props) => {
       placeholderTextColor="#A8B5DB"
       className="flex-1 ml-2 text-white"
       />
-      <Text>SearchBar</Text>
     </View>
   ); 
 };
